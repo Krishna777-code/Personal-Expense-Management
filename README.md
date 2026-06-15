@@ -144,7 +144,7 @@ PORT=5000
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=your_password
-DB_NAME=expense1_manager
+DB_NAME=expense1_tracker
 
 JWT_SECRET=your_secret_key
 ```
